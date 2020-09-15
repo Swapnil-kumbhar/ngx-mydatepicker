@@ -18,6 +18,7 @@ Online demo of bootstrap styled input box and glyphicons is [here](http://kekeh.
 
 To install this component to an external project, follow the procedure:
 
+
 1. __npm install ngx-mydatepicker --save__
 
 2. Add __MyDatePickerModule__ import to your __@NgModule__ like example below
